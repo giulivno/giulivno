@@ -5,13 +5,16 @@ I'm a passionate **Software Engineer**, currently studying **Computer Science** 
 ---
 
 ### 🛠️ Languages & Tools:
-- **Programming:** Python, C++, Java, JavaScript, HTML, CSS  
-- **Frameworks & Technologies:** React, Node.js, AWS, SQL, MongoDB, .NET  
-- **Software & Tools:** Git, Docker, PowerShell, Figma  
+- **Programming:** Python, C++, Java, JavaScript, HTML, CSS  , SQL
+- **Frameworks & Technologies:**  React, React Native, Node.js, Express.js, MongoDB Atlas, MariaDB, REST APIs
+- **Cloud & Hosting:** AWS EC2, Render, Cloudinary, Expo (React Native)
+- **Software & Tools:** Git, GitHub, Figma, VS Code, PyCharm, CLion, Agile Methodologies (Scrum)
 
 ---
 
 ### 🚀 Featured Projects:
+- **📍 [GeoSpot – A Geolocation-Based Social App](https://github.com/Kafaldu/GeoSpot)** – Led as **Scrum Master** for **GeoSpot**, a mobile app that encourages **real-world exploration** through geolocation challenges. Users receive **landmark-based prompts**, navigate to locations, upload photos, and earn in-app rewards. Built with **React Native, Node.js, Express, MongoDB, and Cloudinary**,  with real-time map integration and dynamic spot reveals.
+- 
 - **📊 [Recipe Finder Web App](https://github.com/giulivno/RecipeResource)**  
   A React-based web app that helps students find recipes based on the ingredients they have at home, designed with usability and accessibility in mind.  
 
@@ -28,7 +31,6 @@ I'm a passionate **Software Engineer**, currently studying **Computer Science** 
 
 ### 🎯 What I'm Currently Working On:
 - **♠️ [PokerBot Application](https://github.com/lukephommachanh/pokerBot)** – Developing an **AI-powered poker bot** that leverages **game theory and machine learning** to analyze hands, predict outcomes, and optimize decision-making in real-time.  
-- **📍 [GeoSpot – A Geolocation-Based Social App](https://github.com/Kafaldu/GeoSpot)** – Leading as **Scrum Master** in the development of **GeoSpot**, a mobile app that encourages **real-world exploration** through location-based challenges. Users receive **landmark-based prompts**, navigate to locations, upload photos to **geocaches**, and earn in-app rewards. Built with **React Native, Django, and MongoDB**, the app integrates **Google Maps API, GeoDjango, and Firebase Authentication** for seamless geolocation and security.  
 
 ---
 
