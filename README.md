@@ -14,7 +14,7 @@ I'm a passionate **Software Engineer**, currently studying **Computer Science** 
 
 ### 🚀 Featured Projects:
 - **📍 [GeoSpot – A Geolocation-Based Social App](https://github.com/Kafaldu/GeoSpot)** – Led as **Scrum Master** for **GeoSpot**, a mobile app that encourages **real-world exploration** through geolocation challenges. Users receive **landmark-based prompts**, navigate to locations, upload photos, and earn in-app rewards. Built with **React Native, Node.js, Express, MongoDB, and Cloudinary**,  with real-time map integration and dynamic spot reveals.
-- 
+
 - **📊 [Recipe Finder Web App](https://github.com/giulivno/RecipeResource)**  
   A React-based web app that helps students find recipes based on the ingredients they have at home, designed with usability and accessibility in mind.  
 
