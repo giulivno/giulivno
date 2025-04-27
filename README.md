@@ -24,8 +24,6 @@ I'm a passionate **Software Engineer**, currently studying **Computer Science** 
 - **🕹️ [Shortest Route Graph](https://github.com/JonathanHooth/Shortest-Path-Graph-Traversal)**  
   Implemented **BFS, DFS, and Dijkstra’s algorithm** in C++ to find the shortest path in a large-scale graph visualization project using **BRIDGES**.  
 
----
-
 
 ---
 
