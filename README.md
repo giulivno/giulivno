@@ -31,7 +31,7 @@ Incoming **Software Engineering Intern @ Bank of America** for Summer 2026.
 ---
 
 ### 📫 How to Reach Me:
-- **LinkedIn:** [linkedin.com/in/giulianodilorenzo](https://www.linkedin.com/in/giulianodilorenzo/)  
+- **LinkedIn:** [www.linkedin.com/in/giuliano-di-lorenzo](www.linkedin.com/in/giuliano-di-lorenzo)  
 - **Email:** gdilorenzo@ufl.edu  
 
 ---
