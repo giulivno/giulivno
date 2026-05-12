@@ -37,7 +37,7 @@ Incoming **Software Engineering Intern @ Bank of America** for Summer 2026.
 ---
 
 ### ⚡ Fun Fact:
-I've been playing on the same **Minecraft survival world** for the last **7 years** ⛏️🌍 Currently working on expanding my mountain kingdom!  
+I've been playing on the same **Minecraft survival world** for the last **8 years** ⛏️🌍 Currently working on expanding my mountain kingdom!  
 
 ---
 
