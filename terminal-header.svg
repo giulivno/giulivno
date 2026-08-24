@@ -1,0 +1,85 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Fira Code','Consolas',monospace">
+  <defs>
+    <clipPath id="typeClip1">
+      <rect x="0" y="0" width="0" height="30">
+        <animate attributeName="width" from="0" to="430" dur="1.4s" begin="0.3s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typeClip2">
+      <rect x="0" y="0" width="0" height="30">
+        <animate attributeName="width" from="0" to="560" dur="1.6s" begin="2.0s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typeClip3">
+      <rect x="0" y="0" width="0" height="30">
+        <animate attributeName="width" from="0" to="600" dur="1.8s" begin="4.0s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="0" y="0" width="800" height="220" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="800" height="34" rx="10" fill="#161b22"/>
+  <rect x="0" y="24" width="800" height="10" fill="#161b22"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="400" y="21" text-anchor="middle" fill="#8b949e" font-size="12">giuliano@portfolio: ~/profile.sh --live</text>
+
+  <!-- prompt line 1 -->
+  <text x="24" y="68" font-size="16" fill="#3fb950">giuliano@dev</text>
+  <text x="150" y="68" font-size="16" fill="#8b949e">:</text>
+  <text x="158" y="68" font-size="16" fill="#58a6ff">~</text>
+  <text x="172" y="68" font-size="16" fill="#c9d1d9">$ whoami</text>
+
+  <!-- typed output 1 -->
+  <g clip-path="url(#typeClip1)">
+    <text x="24" y="100" font-size="17" fill="#e6edf3">&gt; Giuliano Di Lorenzo — Software Engineer</text>
+  </g>
+  <rect x="24" y="86" width="2" height="18" fill="#e6edf3">
+    <animate attributeName="x" from="24" to="454" dur="1.4s" begin="0.3s" fill="freeze" calcMode="linear"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="1.7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- typed output 2 -->
+  <g clip-path="url(#typeClip2)">
+    <text x="24" y="130" font-size="15" fill="#8b949e">&gt; UF grad · BofA Software Eng. Intern (Summer 2026, complete)</text>
+  </g>
+  <rect x="24" y="118" width="2" height="16" fill="#8b949e">
+    <animate attributeName="x" from="24" to="584" dur="1.6s" begin="2.0s" fill="freeze" calcMode="linear"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="3.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- typed output 3 -->
+  <g clip-path="url(#typeClip3)">
+    <text x="24" y="160" font-size="15" fill="#8b949e">&gt; Now: M.S. Info Systems (AI) @ FIU · open to Summer 2027 roles</text>
+  </g>
+  <rect x="24" y="148" width="2" height="16" fill="#8b949e">
+    <animate attributeName="x" from="24" to="624" dur="1.8s" begin="4.0s" fill="freeze" calcMode="linear"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="5.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- final prompt cursor -->
+  <text x="24" y="196" font-size="16" fill="#3fb950" opacity="0">
+    giuliano@dev
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="6.5s" fill="freeze"/>
+  </text>
+  <text x="150" y="196" font-size="16" fill="#8b949e" opacity="0">
+    :
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="6.5s" fill="freeze"/>
+  </text>
+  <text x="158" y="196" font-size="16" fill="#58a6ff" opacity="0">
+    ~
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="6.5s" fill="freeze"/>
+  </text>
+  <text x="172" y="196" font-size="16" fill="#c9d1d9" opacity="0">
+    $
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="6.5s" fill="freeze"/>
+  </text>
+  <rect x="190" y="182" width="9" height="16" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" dur="0.2s" begin="6.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="6.7s" repeatCount="indefinite"/>
+  </rect>
+</svg>

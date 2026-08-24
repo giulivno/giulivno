@@ -1,44 +1,95 @@
-## Hi there, I'm Giuliano Di Lorenzo 👋  
+<div align="center">
 
-I'm a passionate **Software Engineer** with a background in **Computer Science** and **Business Administration** from the **University of Florida**. I enjoy working on **innovative solutions** that blend **technology and creativity**, from **full-stack web development** to **AI-driven applications**. I'm always looking for opportunities to collaborate, learn, and build something impactful.  
+<img src="./terminal-header.svg" alt="Giuliano Di Lorenzo — terminal banner" width="100%"/>
 
-Incoming **Software Engineering Intern @ Bank of America** for Summer 2026.
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=giulivno&color=3fb950&style=flat-square&label=profile+views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giuliano_Di_Lorenzo-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://www.linkedin.com/in/giuliano-di-lorenzo)
+[![Email](https://img.shields.io/badge/Email-gdilorenzo%40ufl.edu-0d1117?style=flat-square&logo=gmail&logoColor=3fb950&labelColor=161b22)](mailto:gdilorenzo@ufl.edu)
 
-### 🛠️ Languages & Tools:
-- **Programming:** Python, C++, Java, JavaScript, TypeScript, HTML, CSS, SQL, PHP
-- **Frameworks & Technologies:** React, Next.js, React Native, Node.js, Express.js, FastAPI, MongoDB Atlas, Supabase, MariaDB, REST APIs, Tailwind CSS
-- **Cloud & Hosting:** AWS Lambda, AWS EC2, Docker, Vercel, Render, Cloudinary
-- **Software & Tools:** Git, GitHub, Figma, VS Code, PyCharm, CLion, Agile Methodologies (Scrum)
+</div>
 
----
+```bash
+$ cat about.md
+```
 
-### 🚀 Featured Projects:
+Software Engineer with a background in **Computer Science** (B.S., University of Florida) and a minor in **Business Administration**. I like building things where technology and creativity overlap — full-stack apps, AI-driven tools, and the occasional overengineered side project.
 
-- **🎵 [ChordMonkey – Music Theory-Powered Songwriting Assistant](https://github.com/giulivno/ChordMonkey):** Developed a full-stack AI-powered songwriting assistant that converts live audio into MIDI, detects chords and musical keys, and generates music theory-based chord recommendations. Built using **Next.js, React, TypeScript, FastAPI, Python, Supabase, AWS Lambda, and Docker**.
+Just wrapped a **Software Engineering internship at Bank of America** (Global Technology, Summer 2026, NYC) and I'm starting an **M.S. in Information Systems with an AI specialization at FIU** this fall. Currently in the pipeline for the **BofA Global Technology Summer Analyst 2027** role.
 
-- **📍 [GeoSpot – A Geolocation-Based Social App](https://github.com/Kafaldu/GeoSpot):** Led as **Scrum Master** for **GeoSpot**, a mobile app that encourages **real-world exploration** through geolocation challenges. Built with **React Native, Node.js, Express, MongoDB, and Cloudinary**, with real-time map integration and dynamic spot reveals.
+<br/>
 
-- **🏫 [CampusSwap – Student Marketplace Platform](https://github.com/giulivno/CampusSwap):** Led frontend development and UX for a full-stack student marketplace platform built with a **LAMP stack**, featuring student verification, image uploads, messaging, and Google Maps integration.
+```bash
+$ ls -la ./tech-stack/
+```
 
-- **📊 [Recipe Finder Web App](https://github.com/giulivno/RecipeResource):** A React-based web app that helps students find recipes based on the ingredients they have at home, designed with usability and accessibility in mind.  
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- **🌐 [World Trade Amusement](https://worldtradeamusement.net/):** Designed and deployed a **full-stack** business website for an arcade game company using **Node.js** and **AWS EC2**.  
+**Languages**
+```
+Python · Java · C++
+JavaScript · TypeScript
+SQL · PHP · HTML/CSS
+```
 
-- **🕹️ [Shortest Route Graph](https://github.com/JonathanHooth/Shortest-Path-Graph-Traversal):** Implemented **BFS, DFS, and Dijkstra’s algorithm** in C++ to find the shortest path in a large-scale graph visualization project using **BRIDGES**.  
+**Frameworks**
+```
+React · Next.js · React Native
+Node.js · Express.js · FastAPI
+Tailwind CSS
+```
 
----
+</td>
+<td valign="top" width="50%">
 
-### 📫 How to Reach Me:
-- **LinkedIn:** [www.linkedin.com/in/giuliano-di-lorenzo](https://www.linkedin.com/in/giuliano-di-lorenzo)  
-- **Email:** gdilorenzo@ufl.edu  
+**Data & Cloud**
+```
+MongoDB Atlas · Supabase
+MariaDB · AWS Lambda / EC2
+Docker · Vercel · Render
+```
 
----
+**Tools**
+```
+Git/GitHub · Figma
+VS Code · PyCharm · CLion
+Agile / Scrum
+```
 
-### ⚡ Fun Fact:
-I've been playing on the same **Minecraft survival world** for the last **8 years** ⛏️🌍 Currently working on expanding my mountain kingdom!  
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-Let's connect and create something amazing together! 🚀
+```bash
+$ ./featured_projects --list
+```
+
+| Project | Description | Stack |
+|---|---|---|
+| 🎵 [**ChordMonkey**](https://github.com/giulivno/ChordMonkey) | Songwriting assistant that converts live audio into MIDI, detects chords/keys, and suggests music-theory-based chord progressions | Next.js, React, TypeScript, FastAPI, Supabase, AWS Lambda, Docker |
+| 📍 [**GeoSpot**](https://github.com/Kafaldu/GeoSpot) | Geolocation-based social app for real-world exploration, built as Scrum Master on a student team | React Native, Node.js, Express, MongoDB, Cloudinary |
+| 🏫 [**CampusSwap**](https://github.com/giulivno/CampusSwap) | Student marketplace platform with verification, image uploads, messaging, and Maps integration | LAMP stack |
+| 📊 [**Recipe Finder**](https://github.com/giulivno/RecipeResource) | Finds recipes based on ingredients you already have at home | React |
+| 🌐 [**World Trade Amusement**](https://worldtradeamusement.net/) | Full-stack business site for an arcade game company | Node.js, AWS EC2 |
+| 🕹️ [**Shortest Route Graph**](https://github.com/JonathanHooth/Shortest-Path-Graph-Traversal) | BFS / DFS / Dijkstra's implemented in C++ for large-scale graph visualization | C++, BRIDGES |
+
+<br/>
+
+```bash
+$ tail -n 1 fun_facts.log
+```
+
+⛏️ Still playing on the same **Minecraft survival world**, 8 years running — currently expanding the mountain kingdom.
+
+<br/>
+
+<div align="center">
+
+*Let's connect and build something impactful.* 🚀
+
+</div>
