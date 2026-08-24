@@ -10,86 +10,83 @@
 
 </div>
 
-```bash
-$ cat about.md
-```
+## Hi there, I'm Giuliano Di Lorenzo 👋
 
-Software Engineer with a background in **Computer Science** (B.S., University of Florida) and a minor in **Business Administration**. I like building things where technology and creativity overlap — full-stack apps, AI-driven tools, and the occasional overengineered side project.
+I'm a passionate **Software Engineer** with a background in **Computer Science** and **Business Administration** from the **University of Florida**. I enjoy working on **innovative solutions** that blend **technology and creativity**, from **full-stack web development** to **AI-driven applications**. I'm always looking for opportunities to collaborate, learn, and build something impactful.
 
-Just wrapped a **Software Engineering internship at Bank of America** (Global Technology, Summer 2026, NYC) and I'm starting an **M.S. in Information Systems with an AI specialization at FIU** this fall. Currently in the pipeline for the **BofA Global Technology Summer Analyst 2027** role.
+Just wrapped a **Software Engineering internship at Bank of America** (Global Technology, Summer 2026). Now pursuing an **M.S. in Information Systems, AI Specialization, at FIU** (Class of 2027), and in the pipeline for the **BofA Global Technology Summer Analyst 2027** role.
 
-<br/>
+---
 
-```bash
-$ ls -la ./tech-stack/
-```
+### 🛠️ Languages & Tools
 
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="50%">
+<td align="center" valign="top">
 
-**Languages**
-```
-Python · Java · C++
-JavaScript · TypeScript
-SQL · PHP · HTML/CSS
-```
+**Programming**
 
-**Frameworks**
-```
-React · Next.js · React Native
-Node.js · Express.js · FastAPI
-Tailwind CSS
-```
+Python<br/>C++<br/>Java<br/>JavaScript<br/>TypeScript<br/>SQL<br/>PHP<br/>HTML/CSS
 
 </td>
-<td valign="top" width="50%">
+<td align="center" valign="top">
 
-**Data & Cloud**
-```
-MongoDB Atlas · Supabase
-MariaDB · AWS Lambda / EC2
-Docker · Vercel · Render
-```
+**Frameworks & Tech**
 
-**Tools**
-```
-Git/GitHub · Figma
-VS Code · PyCharm · CLion
-Agile / Scrum
-```
+React<br/>Next.js<br/>React Native<br/>Node.js<br/>Express.js<br/>FastAPI<br/>REST APIs<br/>Tailwind CSS
+
+</td>
+<td align="center" valign="top">
+
+**Cloud & Data**
+
+AWS Lambda<br/>AWS EC2<br/>Docker<br/>MongoDB Atlas<br/>Supabase<br/>MariaDB<br/>Vercel · Render · Cloudinary
+
+</td>
+<td align="center" valign="top">
+
+**Software & Tools**
+
+Git · GitHub<br/>Figma<br/>VS Code<br/>PyCharm · CLion<br/>Jira<br/>Agile / Scrum
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-```bash
-$ ./featured_projects --list
-```
+### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🎵 [**ChordMonkey**](https://github.com/giulivno/ChordMonkey) | Songwriting assistant that converts live audio into MIDI, detects chords/keys, and suggests music-theory-based chord progressions | Next.js, React, TypeScript, FastAPI, Supabase, AWS Lambda, Docker |
-| 📍 [**GeoSpot**](https://github.com/Kafaldu/GeoSpot) | Geolocation-based social app for real-world exploration, built as Scrum Master on a student team | React Native, Node.js, Express, MongoDB, Cloudinary |
-| 🏫 [**CampusSwap**](https://github.com/giulivno/CampusSwap) | Student marketplace platform with verification, image uploads, messaging, and Maps integration | LAMP stack |
-| 📊 [**Recipe Finder**](https://github.com/giulivno/RecipeResource) | Finds recipes based on ingredients you already have at home | React |
-| 🌐 [**World Trade Amusement**](https://worldtradeamusement.net/) | Full-stack business site for an arcade game company | Node.js, AWS EC2 |
-| 🕹️ [**Shortest Route Graph**](https://github.com/JonathanHooth/Shortest-Path-Graph-Traversal) | BFS / DFS / Dijkstra's implemented in C++ for large-scale graph visualization | C++, BRIDGES |
+- **🏦 [AI Automation Platform](https://github.com/giulivno) — Bank of America, Software Engineer Intern:** Built an AI automation platform that converted manual spreadsheet workflows into automated processes, cutting manual effort by 90%+. Developed a multi-agent system for AI-driven document analysis, and data-matching engines that reconciled information across sources into audit-ready outputs. Built with **Copilot Studio, Power Automate, Office Scripts, SharePoint, TypeScript**. *(Internal project — code not public.)*
 
-<br/>
+- **🎵 [ChordMonkey – Music Theory-Powered Songwriting Assistant](https://github.com/giulivno/ChordMonkey):** Led frontend development and UX integration for a full-stack songwriting tool with authentication, song management, and a community discovery feed. Integrated ML audio pipelines using FastAPI and Spotify's Basic Pitch model for live audio-to-MIDI transcription. Built using **Next.js, React, TypeScript, FastAPI, Supabase, AWS Lambda, and Docker**.
 
-```bash
-$ tail -n 1 fun_facts.log
-```
+- **📍 [GeoSpot – A Geolocation-Based Social App](https://github.com/Kafaldu/GeoSpot):** Led as **Scrum Master** for a 4-member team building a mobile app that encourages real-world exploration through geolocation challenges, boosting prototype engagement by 35% with 99% uptime. Built with **React Native, Node.js, Express, MongoDB, and Cloudinary**.
 
-⛏️ Still playing on the same **Minecraft survival world**, 8 years running — currently expanding the mountain kingdom.
+- **🏫 [CampusSwap – Student Marketplace Platform](https://github.com/giulivno/CampusSwap):** Led frontend development and UX for a full-stack student marketplace platform built with a **LAMP stack**, featuring student verification, image uploads, messaging, and Google Maps integration.
 
-<br/>
+- **📊 [Recipe Finder Web App](https://github.com/giulivno/RecipeResource):** A React-based web app that helps students find recipes based on the ingredients they have at home, designed with usability and accessibility in mind.
+
+- **🌐 [World Trade Amusement](https://worldtradeamusement.net/):** Designed and deployed a full-stack business website for an arcade game company, boosting mobile usability by 60%, site traffic by 40%, and reducing bounce rate by 30% within the first month. Built with **HTML5, CSS, Node.js, Express, and AWS EC2**.
+
+- **🕹️ [Shortest Route Graph](https://github.com/JonathanHooth/Shortest-Path-Graph-Traversal):** Implemented **BFS, DFS, and Dijkstra's algorithm** in C++ to find the shortest path in a large-scale graph visualization project using **BRIDGES**.
+
+---
+
+### 📫 How to Reach Me
+
+- **LinkedIn:** [linkedin.com/in/giuliano-di-lorenzo](https://www.linkedin.com/in/giuliano-di-lorenzo)
+- **Email:** gdilorenzo@ufl.edu
+- **GitHub:** [github.com/giulivno](https://github.com/giulivno)
+
+---
+
+### ⚡ Fun Fact
+
+I've been playing on the same **Minecraft survival world** for the last **8 years** ⛏️🌍 Currently working on expanding my mountain kingdom!
 
 <div align="center">
 
-*Let's connect and build something impactful.* 🚀
+*Let's connect and create something amazing together!* 🚀
 
 </div>
