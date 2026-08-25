@@ -75,17 +75,6 @@ Git · GitHub<br/>Figma<br/>VS Code<br/>PyCharm · CLion<br/>Jira<br/>Agile / Sc
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=giulivno&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950&ring_color=3FB950" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulivno&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=giulivno&hide_border=true&background=0D1117&ring=3FB950&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165"/>
-
-</div>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -93,8 +82,6 @@ Git · GitHub<br/>Figma<br/>VS Code<br/>PyCharm · CLion<br/>Jira<br/>Agile / Sc
 <img src="https://raw.githubusercontent.com/giulivno/giulivno/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
-
-> Generated daily by a GitHub Actions workflow ([`.github/workflows/snake.yml`](.github/workflows/snake.yml)) that eats through your real contribution graph. See setup note below.
 
 ---
 
