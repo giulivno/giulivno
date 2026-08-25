@@ -4,6 +4,7 @@
 
 
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/giuliano-di-lorenzo)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3FB950)](mailto:gdilorenzo@ufl.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/giulivno)
