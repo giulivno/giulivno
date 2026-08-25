@@ -4,9 +4,11 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=giulivno&color=3fb950&style=flat-square&label=profile+views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giuliano_Di_Lorenzo-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://www.linkedin.com/in/giuliano-di-lorenzo)
-[![Email](https://img.shields.io/badge/Email-gdilorenzo%40ufl.edu-0d1117?style=flat-square&logo=gmail&logoColor=3fb950&labelColor=161b22)](mailto:gdilorenzo@ufl.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/giuliano-di-lorenzo)
+[![Email](https://img.shields.io/badge/Email-3FB950?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:gdilorenzo@ufl.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/giulivno)
+<br/>
+<img src="https://komarev.com/ghpvc/?username=giulivno&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
 
 </div>
 
@@ -73,6 +75,29 @@ Git · GitHub<br/>Figma<br/>VS Code<br/>PyCharm · CLion<br/>Jira<br/>Agile / Sc
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=giulivno&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950&ring_color=3FB950" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulivno&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=giulivno&hide_border=true&background=0D1117&ring=3FB950&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165"/>
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/giulivno/giulivno/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
+
+> Generated daily by a GitHub Actions workflow ([`.github/workflows/snake.yml`](.github/workflows/snake.yml)) that eats through your real contribution graph. See setup note below.
+
+---
+
 ### 📫 How to Reach Me
 
 - **LinkedIn:** [linkedin.com/in/giuliano-di-lorenzo](https://www.linkedin.com/in/giuliano-di-lorenzo)
@@ -88,5 +113,7 @@ I've been playing on the same **Minecraft survival world** for the last **8 year
 <div align="center">
 
 *Let's connect and create something amazing together!* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
 
 </div>
