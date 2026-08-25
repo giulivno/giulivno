@@ -73,10 +73,6 @@ Git · GitHub<br/>Figma<br/>VS Code<br/>PyCharm · CLion<br/>Jira<br/>Agile / Sc
 
 - **🕹️ [Shortest Route Graph](https://github.com/JonathanHooth/Shortest-Path-Graph-Traversal):** Implemented **BFS, DFS, and Dijkstra's algorithm** in C++ to find the shortest path in a large-scale graph visualization project using **BRIDGES**.
 
----
-
-### 🐍 Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/giulivno/giulivno/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
