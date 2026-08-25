@@ -2,11 +2,11 @@
 
 <img src="./terminal-header.svg" alt="Giuliano Di Lorenzo — terminal banner" width="100%"/>
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/giuliano-di-lorenzo)
-[![Email](https://img.shields.io/badge/Email-3FB950?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:gdilorenzo@ufl.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/giulivno)
+<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/giuliano-di-lorenzo)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3FB950)](mailto:gdilorenzo@ufl.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/giulivno)
 <br/>
 <img src="https://komarev.com/ghpvc/?username=giulivno&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
 
@@ -96,7 +96,5 @@ I've been playing on the same **Minecraft survival world** for the last **8 year
 <div align="center">
 
 *Let's connect and create something amazing together!* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
 
 </div>
